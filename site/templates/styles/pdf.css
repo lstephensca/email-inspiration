@@ -1,0 +1,52 @@
+/**
+ * main.css
+ *
+ * 1. General HTML tags
+ * 2. Masthead area
+ * 3. Main content and sidebar
+ * 4. Footer
+ * 5. Media queries for responsive layout
+ *
+ */
+
+/*********************************************************************
+ * 1. General HTML tags
+ *
+ */
+
+* {
+	box-sizing: border-box;
+}
+
+
+/*********************************************************************
+ * 2. Masthead area
+ *
+ */
+
+.skipper{
+	margin:20px 0 0 0;
+}
+
+
+ nav .nav-wrapper form, nav .nav-wrapper form .input-field{
+ height: 100%;
+ }
+
+
+
+ .col.grid-example {
+   border: 1px solid #eee;
+   margin: 7px 0;
+   text-align: center;
+   line-height: 50px;
+   font-size: 28px;
+   background-color: tomato;
+   color: white;
+   padding: 0
+ }
+
+
+.bold{
+	font-weight: bold;
+}

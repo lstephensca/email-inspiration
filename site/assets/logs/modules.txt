@@ -1,0 +1,38 @@
+2019-06-07 15:05:25	guest	http://192.168.12.3:8888/development/projects/email-inspiration/install.php	Saved module info caches
+2019-06-07 15:06:46	?	?	Saved module 'SystemUpdater' config data
+2019-06-07 15:06:46	?	?	Saved module info caches
+2019-06-07 15:06:46	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Saved module info caches
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Installed module 'ProcessRecentPages'
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Saved module info caches
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Saved module 'SystemUpdater' config data
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Saved module info caches
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Installed module 'AdminThemeUikit'
+2019-06-07 15:06:47	guest	http://192.168.12.3:8888/development/projects/email-inspiration/http404/	Saved module info caches
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module 'ProcessProfile' config data
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module info caches
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Installed module 'ProcessLogger'
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module info caches
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Installed module 'InputfieldIcon'
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module info caches
+2019-06-07 15:06:58	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:01	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:02	?	?	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:02	?	?	Saved module info caches
+2019-06-07 15:07:03	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/?login=1	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:03	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/page/?login=1	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:04	?	?	Saved module info caches
+2019-06-07 15:07:04	?	?	Saved module 'SystemUpdater' config data
+2019-06-07 15:07:04	?	?	Saved module info caches
+2019-06-07 15:07:04	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2019-06-07 15:43:55	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/?reset=1	Saved module info caches
+2019-06-07 15:44:12	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Installed module 'ProcessTracyAdminer'
+2019-06-07 15:44:12	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Installed module 'TracyDebugger'
+2019-06-07 15:44:12	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Saved module info caches
+2019-06-07 15:44:23	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=TracyDebugger	Saved module 'TracyDebugger' config data
+2019-06-07 15:44:40	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=TracyDebugger&collapse_info=1	Saved module 'TracyDebugger' config data
+2019-06-07 15:44:41	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=TracyDebugger&collapse_info=1	Saved module 'TracyDebugger' config data
+2019-06-07 15:44:42	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=TracyDebugger&collapse_info=1	Saved module 'TracyDebugger' config data
+2019-06-11 14:05:05	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Installed module 'ProcessPageClone'
+2019-06-11 14:05:05	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Saved module info caches
+2019-06-11 14:05:06	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProcessPageClone	Saved module 'TracyDebugger' config data
+2019-06-11 14:05:06	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProcessPageClone	Saved module 'TracyDebugger' config data

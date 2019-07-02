@@ -1,0 +1,11 @@
+{
+  "name": "email-inspiration",
+  "version": "1.0.0",
+  "description": "This document is in Markdown. An HTML formatted version of this document  can be read at: https://github.com/processwire/processwire/blob/master/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Stephens",
+  "license": "ISC"
+}
