@@ -1,3 +1,7 @@
+# Remove node_modules
+node_modules
+
 # Remove Processwire core files
 wire
+site/assets
 site/modules
