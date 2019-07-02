@@ -36,3 +36,15 @@
 2019-06-11 14:05:05	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Saved module info caches
 2019-06-11 14:05:06	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProcessPageClone	Saved module 'TracyDebugger' config data
 2019-06-11 14:05:06	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProcessPageClone	Saved module 'TracyDebugger' config data
+2019-07-02 09:31:41	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/?reset=1	Saved module info caches
+2019-07-02 09:31:51	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Installed module 'ProcessProCache'
+2019-07-02 09:31:51	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Saved module info caches
+2019-07-02 09:31:51	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Installed module 'ProCache'
+2019-07-02 09:31:51	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/	Saved module info caches
+2019-07-02 09:31:52	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProCache	Saved module 'TracyDebugger' config data
+2019-07-02 09:31:52	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProCache	Saved module 'TracyDebugger' config data
+2019-07-02 09:33:13	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProCache	Saved module 'ProCache' config data
+2019-07-02 09:35:08	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Saved module 'ProCache' config data
+2019-07-02 09:35:34	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Saved module 'ProCache' config data
+2019-07-02 09:36:06	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Saved module 'ProCache' config data
+2019-07-02 09:41:10	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Saved module 'ProCache' config data

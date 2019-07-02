@@ -4,6 +4,29 @@
 # @indexVersion 300
 #################################################################################################
 
+
+ # --- ProCache Manual Directives from 2019-07-02 09:33:52 ---------------------------------------
+  # PROCACHE v8742363cb0fe690d425a6671b6e8fd90
+  RewriteCond %{REQUEST_METHOD} !=POST
+  RewriteCond %{QUERY_STRING} !.*=.*
+  RewriteCond %{HTTP_COOKIE} !^.*(wire_challenge|wires_challenge).*$
+  RewriteCond %{DOCUMENT_ROOT}/development/projects/email-inspiration/site/assets/ProCache-ea7b72f81cb49b607307b24c8b9596/$1/index.html -f
+  RewriteRule ^(.*) %{DOCUMENT_ROOT}/development/projects/email-inspiration/site/assets/ProCache-ea7b72f81cb49b607307b24c8b9596/$1/index.html [L]
+  # /PROCACHE
+  # If using UTF8 page names update the line below consistent with your $config->pageNameWhitelist
+  # or copy the existing uncommented line from the PW-PAGENAME section of your .htaccess file.
+  RewriteCond %{REQUEST_URI} "^/~?[-_.a-zA-Z0-9/]*$"
+  # --- End ProCache Manual Directives ------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 # -----------------------------------------------------------------------------------------------
 # 1. Don't show directory indexes, but do follow symbolic links 
 # 500 NOTE: Some cloud hosting companies don't allow +FollowSymLinks. 

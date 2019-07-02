@@ -30,6 +30,43 @@ body {
 }
   
 
+ #pop {
+ 	position: fixed;
+ 	bottom: 10px;
+ 	right: 10px;
+
+ 	ul {
+		
+		li {
+			text-align: right;
+			margin: 10px 0;
+
+			button {
+				font-size: 18px;
+				padding: 10px;
+				background: $ca-green;
+				border: none;
+				border-radius: 50%;
+				color: $light-grey;
+				box-shadow: 0px 26px 32px 1px rgba(0,0,0,0.4);
+
+
+				&:hover {
+					color: $white;
+					background: $ca-purple;
+				}
+				&:active {
+					color: $white;
+					background: $ca-purple;
+				}
+
+
+			}
+		}
+
+ 	}
+ }
+
 #container {
     display: grid;
     grid-gap: 20px;
@@ -93,6 +130,7 @@ body {
     grid-area: sidebar;
     padding: 10px;
     border-right: 1px solid #eeeeee;
+    position: relative;
 
 
 	button {
@@ -111,6 +149,19 @@ body {
 		&:active {
 			color: $white;
 			background: $ca-purple;
+		}
+
+		&.reset {
+			background: $tomato;
+			color: $white;
+			&:hover {
+				color: $white;
+				background: darken($tomato, 20%);
+			}
+			&:active {
+				color: $white;
+				background: darken($tomato, 20%);
+			}
 		}
 
 
@@ -136,13 +187,14 @@ body {
 	ul li {
 		display: inline-block;
 		margin: 5px 0;
+		padding: 0 5px 0 0;
 	}
 
 
 
 
 
-
+	#sticky {}
 
 
 
@@ -312,6 +364,10 @@ fieldset {
   visibility: hidden;
   -webkit-transition: visibility 0s 0.6s;
   transition: visibility 0s 0.6s;
+
+  h2 {
+  	color: $white;
+  }
 }
 
 .cd-panel::after {
@@ -599,7 +655,8 @@ fieldset {
 @media (max-width: 600px) {
 	#container {
         grid-template-columns: 1fr;
-        grid-template-areas:
+		grid-template-rows: 1fr;
+		grid-template-areas:
             "header"
             "header"
             "sidebar"

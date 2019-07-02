@@ -19,3 +19,11 @@
 2019-06-12 09:10:40	admin	http://192.168.12.3:8888/development/projects/email-inspiration/	Maintenance/Copy new version of source file to target file: /site/templates/ajax.php => /site/assets/cache/FileCompiler/site/templates/ajax.php
 2019-06-13 09:11:27	admin	http://192.168.12.3:8888/development/projects/email-inspiration/development/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php
 2019-06-17 08:06:09	guest	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php
+2019-07-02 09:31:41	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/?reset=2	Compiled file: /site/modules/ProCache 5/ProCache.module
+2019-07-02 09:31:42	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/?reset=2	Compiled file: /site/modules/ProCache 5/ProcessProCache.module
+2019-07-02 09:31:42	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/?reset=2	Compiled file: /site/modules/ProCache 5/TextformatterBuster.module
+2019-07-02 09:33:14	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProCache&collapse_info=1	Compiled file: /site/modules/ProCache 5/ProCacheBuster.php
+2019-07-02 09:33:14	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/module/edit?name=ProCache&collapse_info=1	Compiled file: /site/modules/ProCache 5/pwpc-func.php
+2019-07-02 09:35:09	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Compiled file: /site/modules/ProCache 5/ProCacheFileMerger.php
+2019-07-02 09:35:09	admin	http://192.168.12.3:8888/development/projects/email-inspiration/processwire/setup/procache/	Compiled file: /site/modules/ProCache 5/minify/src/JS.php
+2019-07-02 09:38:31	guest	http://192.168.12.3:8888/development/projects/email-inspiration/	Compiled file: /site/modules/ProCache 5/ProCacheMinifyHTML.php
